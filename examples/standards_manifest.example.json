@@ -1,0 +1,7 @@
+{
+  "project_id":"EXAMPLE-001", "discipline":"structural", "purpose":"design_review",
+  "jurisdiction":"VN", "drawing_units":"mm", "drawing_template":"project_approved.dwt",
+  "standards":[{"id":"TCVN 7285:2003","source":"VSQI catalog","applicability":"drawing sheet","status":"CATALOG_VERIFIED","clauses_checked":[],"result":"NOT_CHECKED"},{"id":"TCVN 5574:2018","source":"VSQI catalog","applicability":"concrete design subject to engineer confirmation","status":"CATALOG_VERIFIED","clauses_checked":[],"result":"MANUAL_REVIEW"}],
+  "checks":[{"id":"DXF-ENTITY-COUNT","method":"structural scan","result":"NOT_CHECKED","evidence":null}],
+  "approval":{"status":"NOT_APPROVED","reviewer":null,"date":null}
+}
